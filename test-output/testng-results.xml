@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Testing jenl=kin]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2017-11-15T10:26:12Z" finished-at="2017-11-15T10:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2017-11-15T10:26:12Z" finished-at="2017-11-15T10:26:12Z">
+      <class name="jenkis.testJenkis">
+        <test-method status="PASS" signature="testJenk()[pri:0, instance:jenkis.testJenkis@458ad742]" name="testJenk" duration-ms="0" started-at="2017-11-15T15:56:12Z" finished-at="2017-11-15T15:56:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Testing jenl=kin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testJenk -->
+      </class> <!-- jenkis.testJenkis -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
